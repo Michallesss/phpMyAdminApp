@@ -10,3 +10,7 @@ phpMyAdmin desktop application (need to install phpMyAdmin separately)
 - instant updates
 - open source
 - macOS, Windows and Linux compatibility
+
+### Shortcuts
+```shift+f5``` - reload
+```f10``` - open dev tools
