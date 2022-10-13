@@ -14,3 +14,6 @@ phpMyAdmin desktop application (need to install phpMyAdmin separately)
 ### Shortcuts
 ```shift+f5``` - reload
 ```f10``` - open dev tools
+
+### Instalation
+open file ```phpMyAdminApp-instalator.exe``` in main file in this repo
